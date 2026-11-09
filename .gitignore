@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+meta_video_games.jsonl/
+Video_Games.jsonl/
+meta_video_games.jsonl.gz/
+Video_Games.jsonl.gz/
+*.jsonl.gz
